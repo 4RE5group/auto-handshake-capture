@@ -4,6 +4,11 @@ Automated wifi handshake capture using airmon-ng tools
 Tested on a RPI zero and a TPU plus TP-Link wifi dongle
 Recommended to use on a RPI with no root passwords (script's using sudo often)
 
+
+<img width="300" src="https://github.com/4RE5group/auto-handshake-capture/assets/71982379/b90be6ab-893a-456d-8330-476248ffc4af" style="transform: rotate(90deg)">
+
+
+
 ## installation
 `sudo nano /etc/rc.local` and put these lines at the bottom
 (this will rename wlan1(dongle interface name) into wlan1mon and put it in monitor mode)
