@@ -25,3 +25,6 @@ def getAPList(interface):
                                 print(row[None][0], row[None][13])
                 except:
                         pass
+
+interface="wlan1mon"
+getAPList(interface)
