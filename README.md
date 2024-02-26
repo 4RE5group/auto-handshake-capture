@@ -1,4 +1,4 @@
-# auto-handshake-capture
+# Auto Handshake Capture
 Automated wifi handshake capture using airmon-ng tools
 
 Tested on a RPI zero and a TPU plus TP-Link wifi dongle
@@ -18,3 +18,6 @@ sudo python /path/to/file/called/capture.py
 ```
 
 and then just reboot
+
+## Credits
+made with ❤️ by 4re5 group - 2024
