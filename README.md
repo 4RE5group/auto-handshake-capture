@@ -5,7 +5,8 @@ Tested on a RPI zero and a TPU plus TP-Link wifi dongle
 Recommended to use on a RPI with no root passwords (script's using sudo often)
 
 
-<img width="300" src="https://github.com/4RE5group/auto-handshake-capture/assets/71982379/b90be6ab-893a-456d-8330-476248ffc4af" style="transform: rotate(90deg)">
+<img width="300" src="https://github.com/4RE5group/auto-handshake-capture/assets/71982379/bf5f2995-3fc8-45d4-bd3f-cb53713e361e">
+
 
 
 
