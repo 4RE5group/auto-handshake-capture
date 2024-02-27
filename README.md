@@ -17,7 +17,7 @@ Recommended to use on a RPI with no root passwords (script's using sudo often)
 sudo ip link set wlan1 down
 sudo ip link set wlan1 name wlan1mon
 sudo ip link set wlan1mon up
-sudo iwconfig wlan1 mode monitor
+sudo iwconfig wlan1mon mode monitor
 
 sudo python /path/to/file/called/capture.py
 # in case you wan't to run it in background add a '&' at the end of above command
